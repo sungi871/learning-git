@@ -14,11 +14,11 @@ For example, the objects in the following images were detected using [mmdetectio
 
 ---
 ### **Dependencies ( Level 3 Heading)**
--python
--opencv-python
--tensorflow
--openmlab
--package manager
+- python
+- opencv-python
+- tensorflow
+- openmlab
+- package manager
 
 ### **Installation**
 In a bash terminal, run the following commands (Do NOT actually run these commands in
