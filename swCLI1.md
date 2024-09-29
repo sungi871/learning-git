@@ -2,23 +2,23 @@
 202336083 민선기
 ---
 ## LINUX
- -first released in 1991
- -Leading OS on servers and run on mobile, embededded system
- -most wideley used
- -run on CLI, but many distributions support GUIs as well
+ - first released in 1991
+ - Leading OS on servers and run on mobile, embededded system
+ - most wideley used
+ - run on CLI, but many distributions support GUIs as well
 ## kernel
 communicates with hardware resource
 ## shell
 interface that allows users to communicate with kernel
 
 ## CLI
- -for developers
- -script enable automation and records
- -fast
+ - for developers
+ - script enable automation and records
+ - fast
 ## GUI
- -for dailey users
- -manual labors
- -slow
+ - for dailey users
+ - manual labors
+ - slow
 
 ## shell command
 ### pwd
